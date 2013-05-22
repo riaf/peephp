@@ -1,0 +1,11 @@
+[
+  {
+    "host": "example.com",
+    "servers": [
+      "example-001.ap-northeast-1.compute.amazonaws.com",
+      "example-002.ap-northeast-1.compute.amazonaws.com",
+      "example-003.ap-northeast-1.compute.amazonaws.com",
+      "example-004.ap-northeast-1.compute.amazonaws.com"
+    ]
+  }
+]
