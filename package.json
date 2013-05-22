@@ -1,0 +1,22 @@
+{
+  "name": "peephp",
+  "version": "0.0.0",
+  "description": "peeping",
+  "main": "index.js",
+  "dependencies": {
+    "cli-table": "~0.2.0",
+    "async": "~0.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riaf/peephp.git"
+  },
+  "author": "Keisuke SATO <sato.keisuke@facebook.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "15a1c213dc06efdd3c77b25b8f60d811a73233d0"
+}
